@@ -29,7 +29,7 @@ A back-end structure that you can register yourself with a name, email and passw
 
 ## Learnings
 
-O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
+During this project creation I learned how to use express, knex.js, bcryptjs to encrypt passwords and how to manipulate data with SQL comands. It was a very productive time and I am very happy because I did every single line of code and learned it function!
 
 
 ## 🚀 About me
